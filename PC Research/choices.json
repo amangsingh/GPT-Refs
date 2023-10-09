@@ -1,0 +1,110 @@
+{
+  "Processor (CPU)": [
+    {
+      "Name": "AMD Ryzen 9 5950X",
+      "Source": "TechRadar"
+    },
+    {
+      "Name": "AMD Ryzen 9 5900X",
+      "Source": "PCMag"
+    },
+    {
+      "Name": "AMD Ryzen 7 5800X",
+      "Source": "Tom's Hardware"
+    },
+    {
+      "Name": "AMD Ryzen 5 5600X",
+      "Source": "CNET"
+    }
+  ],
+  "Graphics Card (GPU)": [
+    {
+      "Name": "Nvidia RTX 4090",
+      "Source": "TechRadar"
+    },
+    {
+      "Name": "Nvidia RTX 4080",
+      "Source": "PC Gamer"
+    },
+    {
+      "Name": "Nvidia RTX 4070",
+      "Source": "XDA Developers"
+    }
+  ],
+  "Motherboard": [
+    {
+      "Name": "Asus ROG Strix Z790-I Gaming WiFi",
+      "Source": "Digital Trends"
+    },
+    {
+      "Name": "ASUS ROG Strix X670E-I Gaming WiFi",
+      "Source": "XDA Developers"
+    },
+    {
+      "Name": "MSI MAG B760M Mortar",
+      "Source": "Tom's Hardware"
+    },
+    {
+      "Name": "Asus ROG Maximus Z790 Gaming Motherboard",
+      "Source": "ElectronicsHub"
+    }
+  ],
+  "Memory (RAM)": [
+    {
+      "Name": "G.Skill Trident Z5 Neo RGB DDR5-6000 (2 x 16GB)",
+      "Source": "Tom's Hardware"
+    },
+    {
+      "Name": "PNY XLR8 MAKO DDR5 RAM",
+      "Source": "GamesRadar"
+    },
+    {
+      "Name": "Corsair Vengeance 32GB DDR5 5600 RAM",
+      "Source": "Integraudio"
+    },
+    {
+      "Name": "Corsair Vengeance RGB 32GB DDR5 RAM",
+      "Source": "IGN"
+    }
+  ],
+  "Cooling System": [
+    {
+      "Name": "Corsair iCUE H170i Elite Capellix XT",
+      "Source": "PC Gamer"
+    },
+    {
+      "Name": "Corsair iCUE H150i Elite LCD Liquid CPU Cooler",
+      "Source": "Popular Science"
+    },
+    {
+      "Name": "Cooler Master Hyper 212 Halo",
+      "Source": "Custom PC"
+    },
+    {
+      "Name": "Cooler Master MasterLiquid ML240 Illusion",
+      "Source": "IGN"
+    }
+  ],
+  "Power Supply (PSU)": [
+    {
+      "Name": "Corsair RM750x",
+      "Source": "PC Gamer"
+    },
+    {
+      "Name": "Cooler Master MWE Gold 850 V2",
+      "Source": "XDA Developers"
+    },
+    {
+      "Name": "MSI MPG A750G",
+      "Source": "XDA Developers"
+    },
+    {
+      "Name": "Corsair HX1500i",
+      "Source": "Hardware Busters"
+    },
+    {
+      "Name": "Cooler Master V850",
+      "Source": "IGN"
+    }
+  ]
+}
