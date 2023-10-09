@@ -1,0 +1,17 @@
+{
+  "Processor (CPU)": "AMD processors (high performance, cost-effective)",
+  "Graphics Card (GPU)": "Nvidia RTX series (RTX 3060, RTX 3060 Ti, or RTX 3070)",
+  "Motherboard": "Micro or Mini ATX from ASUS or MSI with adequate PCIe lanes and slots",
+  "Memory (RAM)": "32GB or higher with higher clock speeds",
+  "Cooling System": "Cooling system from Cooler Master or Corsair",
+  "Power Supply (PSU)": "Adequate wattage for current and future components",
+  "Chassis": "Minimalist design with RGB lighting, Micro or Mini ATX compatible, good airflow",
+  "Operating System": "Windows for peripheral support and software compatibility",
+  "Existing Components": "Razer BlackWidow V3 Pro Keyboard, Razer Naga Pro Mouse, 2TB NVMe M.2 storage (1TB x 2)",
+  "Primary Function": "Neural Network Training",
+  "Secondary Function": "Gaming",
+  "Budget": "Preferred range INR 80000 - INR 100000 capped at INR 125000",
+  "Purchase Method": "Flexible to purchasing both via online and via local stores",
+  "Upgradability": "Important, would like to be able to upgrade the system in the future",
+  "Aesthetics": "Important, would like the system to look good. Prefer RGB and minimalist setup"
+}
